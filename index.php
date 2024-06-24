@@ -97,7 +97,7 @@
 
     <!-- ======= Portfolio Section ======= -->
      <?php
-     include 'portfolio.php'
+     include 'prtofolio.php'
      ?>
     <!-- End Portfolio Section -->
 
