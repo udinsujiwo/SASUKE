@@ -1,6 +1,9 @@
+
+<link href="assets/css/style.css" rel="stylesheet">
 <section id="profil" class="profil">
       <div class="container">
       <link href="assets/css/stleys.css" rel="stylesheet">
+      
       <center><h1> Rumah Dede FC </h1></center>
         <div class="row">
           <div class="col-lg-6 order-2 order-lg-1">
@@ -30,9 +33,12 @@
       </div>
 </section>
 
+<?php
+include 'navbar.php'
+?>
+
 
 <?php
-
 include 'footer.php'
 ?>
 
